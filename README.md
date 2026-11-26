@@ -29,7 +29,8 @@ Note on Hosting
 The database was originally deployed on Azure during development. For ease of setup and reproducibility, the project was later switched to a local MySQL instance, so no cloud account is required to run it.
 
 Team
-Name	Role
-Nguyen Thanh An	Developed the back-end structure as well as database design
-Doan Quoc Hung	Develop the front-end design as well as project overall integration
-Luong Gia Bao	Developed OOP design as well as maintaining project's compatibility between back-end and front-end
+Name|	Role
+Nguyen Thanh An|	Developed the back-end structure as well as database design
+Doan Quoc Hung|	Develop the front-end design as well as project overall integration
+Luong Gia Bao|	Developed OOP design as well as maintaining project's compatibility between back-end and front-end
+
